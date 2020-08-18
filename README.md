@@ -4,3 +4,7 @@
 
 
 * [PySyft by OpenMined](https://github.com/OpenMined/PySyft)
+
+
+* [TensorFlow Federated (TFF): Machine Learning on Decentralized Data (TF Dev Summit ‘19)](https://www.youtube.com/watch?v=1YbPmkChcbo&feature=youtu.be)
+* [Federated Learning: Machine Learning on Decentralized Data (Google I/O'19)](https://www.youtube.com/watch?v=89BGjQYA0uE)
