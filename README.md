@@ -15,3 +15,4 @@
 
 * [TensorFlow Federated aka TFF](https://github.com/tensorflow/federated)
 * [PySyft by OpenMined](https://github.com/OpenMined/PySyft)
+* [Open Federated Learning by Intel](https://github.com/IntelLabs/OpenFederatedLearning)
