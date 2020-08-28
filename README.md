@@ -16,3 +16,7 @@
 * [TensorFlow Federated aka TFF](https://github.com/tensorflow/federated)
 * [PySyft by OpenMined](https://github.com/OpenMined/PySyft)
 * [Open Federated Learning by Intel](https://github.com/IntelLabs/OpenFederatedLearning)
+
+
+## Papers:
+* [Robust Federated Learning through Representation Matching and Adaptive Hyperparameters](https://arxiv.org/pdf/1912.13075.pdf)
