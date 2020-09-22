@@ -20,3 +20,4 @@
 
 ## Papers:
 * [Robust Federated Learning through Representation Matching and Adaptive Hyperparameters](https://arxiv.org/pdf/1912.13075.pdf)
+* [Federated Object Detection: Optimizing Object Detection Model with Federated Learning](https://dl.acm.org/doi/pdf/10.1145/3387168.3387181)
